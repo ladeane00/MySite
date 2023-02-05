@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'Python'
-percentage: 60
+percentage: 90
 ---

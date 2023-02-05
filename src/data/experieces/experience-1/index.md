@@ -1,11 +1,18 @@
 ---
 category: 'experiences'
-position: '  Jesuit Robotics Team Head Programmer'
-company: 'Jesuit High School of New Orleans'
-startDate: 'August 2017'
-endDate: 'May 2019'
+position: 'Student Researcher'
+company: 'Villanova University'
+startDate: 'Jan 2020'
+endDate: 'May 2020'
 ---
 
-• Developed programs for android phones in Android Studio to autonomously control a robot
+• Research under Dr. Beck to promote better use of reusable water bottles by analyzing data from daily water fountain use by students. 
 <br />
-• Fostered leadership skills in regard to managing the programming operations of a team
+• The team researched how to incorporate persuasive human computer interaction (HCI) into daily student activities to convince students to use the bottle-filling stations. 
+<br />
+• The conclusion was to implement an app with a points system connected to the Villanova basketball program that would reward students who use the fountains with more nova points which in turn could help get basketball game tickets.
+<br />
+• Encouraged creative collaboration by working remotely to finish the research project due to COVID-19
+<br />
+• Research Article Link: <a style="text-decoration:underline" href=https://veritas.journals.villanova.edu/article/view/2531/2516>Here</a>
+

@@ -1,5 +1,5 @@
 ---
 category: 'interest'
-interest: 'AI'
+interest: 'Information Security'
 ---
 

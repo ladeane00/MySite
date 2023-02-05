@@ -1,28 +1,24 @@
 ---
 category: 'project'
-cover: './bit.png'
-title: 'BitBroker'
-description: 'A Java cryptocurrency application'
-tags: ['Java', 'API']
-status: 'Completed'
+cover: './pandemic.png'
+title: 'Pandemic'
+description: 'Live coronavirus case tracker'
+tags: ['React Native', 'Javascript', 'Node.js', 'API']
+status: 'Completed' 
 published: true
 ---
 
-A Java application that shows live statistics by the minute on the top 3 cryptocurrencies: Bitcoin, Ethereum, and Ripple
-
-**May 05, 2020 - Completed**
+Live coronavirus tracker sourcing data from an API using React on a mobile application. Variables such as deaths, new cases, and recovered cases will be displayed in a graph. Users can either use their current location or input a specific region to view data.   
+ 
+**May 05, 2020 - Completed** 
 
 **GitHub Link:**
- <a href="https://github.com/ladeane00/BitBroker">Here</a>
+ <a href="https://github.com/ladeane00/Pandemic">Here</a>
 
-------------------------------------------------|-----------------------------------------------
+------------------------------------------------|  ------------------------------------------------ 
 - | - |
-![](./bit1.png) | ![](./bit2.png)
+![alt](./pandemic1.png) | ![alt](./pandemic3.png) 
 
 ------------------------------------------------|------------------------------------------------ 
 - | - |
-![](./bit3.png) | ![](./bit4.png)
-
-------------------------------------------------------------------------------------------------|
-- | 
-![](./bit5.png) 
+![alt](./pandemic2.png) | ![alt](./pandemic4.png) 

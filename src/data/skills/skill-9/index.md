@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'VS Code'
-percentage: 65
+percentage: 85
 ---

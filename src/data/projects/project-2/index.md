@@ -1,18 +1,28 @@
 ---
 category: 'project'
-cover: './bugbuddy.jpg'
-title: 'Bug Buddy'
-description: 'An aid to a programming team to keep track of bugs'
-tags: ['HTML/CSS', 'Javascript', 'MySQL']
-status: 'In Progress'
-published: true
+cover: './bit.png'
+title: 'BitBroker'
+description: 'A Java cryptocurrency application'
+tags: ['Java', 'API']
+status: 'Completed'
+published: true 
 ---
 
-This application will offer programmers the ability to collaboratively view bugs on the same project that they are working on by posting tickets with descriptions of the bug to a database. It will be held on a website.
-
-**May 05, 2020 - In Progress**
-
-Still in early phases of production
+A Java application that shows live statistics by the minute on the top 3 cryptocurrencies: Bitcoin, Ethereum, and Ripple.  
+ 
+**May 05, 2019 - Completed** 
 
 **GitHub Link:**
- <a href="https://github.com/ladeane00/Pandemic">Here</a>
+ <a href="https://github.com/ladeane00/BitBroker">Here</a>
+
+------------------------------------------------|-----------------------------------------------
+- | - |
+![](./bit1.png) | ![](./bit2.png)
+
+------------------------------------------------|------------------------------------------------ 
+- | - |
+![](./bit3.png) | ![](./bit4.png)
+
+------------------------------------------------------------------------------------------------|
+- | 
+![](./bit5.png)   

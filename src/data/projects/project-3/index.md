@@ -1,16 +1,29 @@
 ---
 category: 'project'
-cover: './website.png'
-title: 'My Personal Website'
-description: 'This website'
-tags: ['Gatsby', 'Node.js']
-status: 'Completed'
+cover: './sen.png'
+title: 'Senior Lunch App'
+description: 'An IOS application that aids Jesuit High School with student council sponsored senior lunches.'
+tags: ['Swift']
+status: 'Completed'  
 published: true
 ---
+ 
+An iOS application that aids Jesuit High School with student council sponsored senior lunches. 
 
-This website, which was made using by expanding upon a gatsby template.
-
-**Sep 29, 2020 - Completed**
+**Aug 05, 2018 - Completed** 
 
 **GitHub Link:**
- <a href="https://github.com/ladeane00/Senior-Lunch-App">Here</a>
+ <a href="https://github.com/ladeane00/Senior-Lunch-App">Here</a> 
+
+
+-------------------------------------------------------------------------------------------|
+- | 
+![](./sen1.png) 
+
+-------------------------------------------------------------------------------------------|
+- | 
+![](./sen2.png)
+
+-------------------------------------------------------------------------------------------|
+- | 
+![](./sen3.png) 

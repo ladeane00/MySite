@@ -30,8 +30,6 @@ const ResumePage: React.FC = () => (
     <Awards />
     <hr />
     <Languages />
-    <hr />
-    <Interests />
   </Layout>
 );
 

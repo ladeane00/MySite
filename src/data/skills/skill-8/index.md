@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'Eclipse'
-percentage: 80
+title: 'Vue.JS'
+percentage: 60
 ---

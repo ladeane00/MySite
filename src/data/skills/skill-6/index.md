@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'Gatsby'
+title: 'Node.JS'
 percentage: 40
 ---
