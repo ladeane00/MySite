@@ -8,7 +8,6 @@ import Skills from 'components/Skills';
 import Languages from 'components/Languages';
 import Interests from 'components/Interests';
 import Awards from 'components/Awards';
-import Activities from 'components/Activities';
 import Certifications from 'components/Certifications';
 
 
@@ -18,10 +17,6 @@ const ResumePage: React.FC = () => (
     <Experience />
     <hr />
     <Education />
-    <hr />
-    <Activities />
-    <hr />
-    <Skills />
     <hr />
     <Certifications />
     <hr />

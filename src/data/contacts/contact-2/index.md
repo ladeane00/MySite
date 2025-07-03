@@ -1,6 +1,6 @@
 ---
 category: 'contact'
-title: 'Address'
+title: 'Location'
 icon: 'map-marker-alt'
-content: '656 East Niagara Circle, Gretna LA, 70056'
+content: 'San Francisco'
 ---
